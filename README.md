@@ -2,7 +2,8 @@
 
 A JS calculator app built with React as part of the freeCodeCamp curriculum.
 
-## [Live Demo](https://calculator.g2k.media/)
+## Screenshot
+![Project Screenshot](images/react-calculator-screenshot.png)
 
 ## Key Features
 
